@@ -38,11 +38,9 @@ When I'm not coding find me taking photos 📷
 - 😜 Fun-Fact: I ❤️ Technologies and Space🚀 and watch a lot Sci-Fi Movies🎬  
 
 
-</td><td valign="top" width="50%">
+</td>
 
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -64,22 +62,6 @@ When I'm not coding find me taking photos 📷
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MishkoGo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishkoGo&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
