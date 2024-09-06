@@ -18,9 +18,15 @@
 
 
 ### Glad to see you here!  
-Hi, I'm Michael Goranin, a web developer 👨🏻‍💻 from Belarus. I'As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive. I'm proud to say that I can succesfully center an element with css 😎 . Always open to collaborating on projects and innovative ✨.
+Hello! My name is Mikhail and I am a front-end developer.
 
-When I'm not coding find me taking photos 📷  
+I have 2 years of experience in developing responsive and interactive websites and web applications. I work with technologies such as JavaScript, Vue, HTML and CSS (SCSS), which allows me to effectively create user-friendly interfaces and optimize the performance of web applications. In addition, I have experience with other technologies required for web development, which allows me to adapt to various project needs and deliver high-quality results.
+
+In addition, I have also worked with PHP and have basic knowledge of back-end development.
+
+I strive to constantly learn new technologies and improve my existing skills.
+
+I am open to feedback and happy to communicate with like-minded professionals. Thank you for visiting my page!
   
 
 <br/>  
