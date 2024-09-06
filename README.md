@@ -31,21 +31,6 @@ I am open to feedback and happy to communicate with like-minded professionals. T
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning React  
-  
-
--  💼 I’m currently working on creating webpages and webapps  
-  
-
-- 😜 Fun-Fact: I ❤️ Technologies and Space🚀 and watch a lot Sci-Fi Movies🎬  
-
-
-</td>
-
 </tr></table>  
 
 <br/>  
