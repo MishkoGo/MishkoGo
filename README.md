@@ -12,11 +12,11 @@
 
 
 ### Glad to see you here!  
-Hello! My name is Mikhail and I am a front-end developer.
+Hello! My name is Mikhail, and I am a front-end and Flutter developer.
 
-I have 2 years of experience in developing responsive and interactive websites and web applications. I work with technologies such as JavaScript, Vue, HTML and CSS (SCSS), which allows me to effectively create user-friendly interfaces and optimize the performance of web applications. In addition, I have experience with other technologies required for web development, which allows me to adapt to various project needs and deliver high-quality results.
+I have 2 years of experience in developing responsive and interactive websites and web applications. I work with technologies such as JavaScript, Vue, HTML, and CSS (SCSS), which allows me to effectively create user-friendly interfaces and optimize the performance of web applications. In addition, I have experience with other technologies required for web development, which enables me to adapt to various project needs and deliver high-quality results.
 
-In addition, I have also worked with PHP and have basic knowledge of back-end development.
+I also develop mobile applications using Flutter and Dart, allowing me to create cross-platform solutions for iOS and Android. Additionally, I have worked with PHP and have basic knowledge of back-end development.
 
 I strive to constantly learn new technologies and improve my existing skills.
 
